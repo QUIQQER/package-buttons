@@ -15,6 +15,7 @@ Features
 
 - CSS Button Klassen für a-Links
 
+
 Installation
 ------------
 
@@ -33,6 +34,12 @@ Support
 
 Falls Sie ein Fehler gefunden haben oder Verbesserungen wünschen,
 Dann können Sie gerne an support@pcsg.de eine E-Mail schreiben.
+
+
+Entwickler
+-------
+
+- Code Standard: PSR2
 
 
 License
