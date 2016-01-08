@@ -5,7 +5,7 @@ QUIQQER CSS Button Klassen
 Liefert CSS Klassen für a-Links. Erweitert den Inhaltseditor um Button Stile.
 Der Benutzer kann somit auf a-Links als Buttons darstellen lassen 
 
-Packetname:
+Paketname:
 
     quiqqer/buttons
 
