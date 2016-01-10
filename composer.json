@@ -2,7 +2,7 @@
     "name" : "quiqqer/buttons",
     "type" : "quiqqer-plugin",
     "description" : "QUIQQER CSS Buttons Classes for the wysiwy content editor",
-    "version" : "dev-master",
+    "version" : "1.0.0",
     "license" : "MIT",
 
     "authors" : [{
