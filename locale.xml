@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locales>
     <groups name="quiqqer/buttons" datatype="php,js">
+        <locale name="package.title">
+            <de><![CDATA[QUIQQER - Button]]></de>
+            <en><![CDATA[QUIQQER - Button]]></en>
+        </locale>
+        <locale name="package.description">
+            <de><![CDATA[QUIQQER - CSS Buttons für das Frontend und den WYSIWYG Editor]]></de>
+            <en><![CDATA[QUIQQER - CSS Buttons for the frontend and the WYSIWYG editor]]></en>
+        </locale>
+
+
         <locale name="template.button.orange">
             <de><![CDATA[Link: Orangener Button]]></de>
             <en><![CDATA[Link: Orange Button]]></en>
