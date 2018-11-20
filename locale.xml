@@ -45,7 +45,7 @@
         </locale>
         <locale name="template.button.white">
             <de><![CDATA[Button: Weiß]]></de>
-            <en><![CDATA[Link White Button]]></en>
+            <en><![CDATA[Button: White]]></en>
         </locale>
         <locale name="template.button.black">
             <de><![CDATA[Button: Schwarz]]></de>
