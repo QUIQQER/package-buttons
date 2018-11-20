@@ -12,44 +12,44 @@
 
 
         <locale name="template.button.orange">
-            <de><![CDATA[Link: Orangener Button]]></de>
-            <en><![CDATA[Link: Orange Button]]></en>
+            <de><![CDATA[Button: Orange]]></de>
+            <en><![CDATA[Button: Orange]]></en>
         </locale>
         <locale name="template.button.red">
-            <de><![CDATA[Link: Roter Button]]></de>
-            <en><![CDATA[Link: Red Button]]></en>
+            <de><![CDATA[Button: Rot]]></de>
+            <en><![CDATA[Button: Red]]></en>
         </locale>
         <locale name="template.button.blue">
-            <de><![CDATA[Link: Blauer Button]]></de>
-            <en><![CDATA[Link: Blue Button]]></en>
+            <de><![CDATA[Button: Blau]]></de>
+            <en><![CDATA[Button: Blue]]></en>
         </locale>
         <locale name="template.button.rosy">
-            <de><![CDATA[Link: Rosa Button]]></de>
-            <en><![CDATA[Link: Rose Button]]></en>
+            <de><![CDATA[Button: Rosa]]></de>
+            <en><![CDATA[Button: Rose]]></en>
         </locale>
         <locale name="template.button.green">
-            <de><![CDATA[Link: Grüner Button]]></de>
-            <en><![CDATA[Link: Green Button]]></en>
+            <de><![CDATA[Button: Grün]]></de>
+            <en><![CDATA[Button: Green]]></en>
         </locale>
         <locale name="template.button.pink">
-            <de><![CDATA[Link: Pinker Button]]></de>
-            <en><![CDATA[Link: Pink Button]]></en>
+            <de><![CDATA[Button: Pink]]></de>
+            <en><![CDATA[Button: Pink]]></en>
         </locale>
         <locale name="template.button.silver">
-            <de><![CDATA[Link: Silberner Button]]></de>
-            <en><![CDATA[Link: Silver Button]]></en>
+            <de><![CDATA[Button: Silbern]]></de>
+            <en><![CDATA[Button: Silver]]></en>
         </locale>
         <locale name="template.button.grey">
-            <de><![CDATA[Link: Grauer Button]]></de>
-            <en><![CDATA[Link: Grey Button]]></en>
+            <de><![CDATA[Button: Grau]]></de>
+            <en><![CDATA[Button: Grey]]></en>
         </locale>
         <locale name="template.button.white">
-            <de><![CDATA[Link: Weiser Button]]></de>
+            <de><![CDATA[Button: Weiß]]></de>
             <en><![CDATA[Link White Button]]></en>
         </locale>
         <locale name="template.button.black">
-            <de><![CDATA[Link: Schwarzer Button]]></de>
-            <en><![CDATA[Link: Black Button]]></en>
+            <de><![CDATA[Button: Schwarz]]></de>
+            <en><![CDATA[Button: Black]]></en>
         </locale>
     </groups>
 </locales>
