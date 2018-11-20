@@ -1,12 +1,10 @@
 ![QUIQQER Buttons](bin/images/Readme.jpg)
-
-QUIQQER CSS Button Klassen
 ========
 
-Liefert CSS Klassen für a-Links. Erweitert den Inhaltseditor um Button Stile.
-Der Benutzer kann somit auf a-Links als Buttons darstellen lassen 
+Provides CSS classes to display \<a\>-tags as buttons.
 
-Paketname:
+
+Package name:
 
     quiqqer/buttons
 
@@ -14,18 +12,19 @@ Paketname:
 Features
 --------
 
-- CSS Button Klassen für a-Links
+- CSS classes to display \<a\>-tags as buttons
 
 
 Installation
 ------------
 
-Der Paketname ist: quiqqer/buttons
+The package name is: `quiqqer/buttons`
 
 
-Mitwirken
+Contribute
 ----------
 
+- Project: https://dev.quiqqer.com/quiqqer/package-buttons/
 - Issue Tracker: https://dev.quiqqer.com/quiqqer/package-buttons/issues
 - Source Code: https://dev.quiqqer.com/quiqqer/package-buttons
 
@@ -33,14 +32,15 @@ Mitwirken
 Support
 -------
 
-Falls Sie ein Fehler gefunden haben oder Verbesserungen wünschen,
-Dann können Sie gerne an support@pcsg.de eine E-Mail schreiben.
+If you found any flaws, have any wishes or suggestions you can send an email
+to [support@pcsg.de](mailto:support@pcsg.de) to inform us about your concerns. 
+We will try to respond to your request and forward it to the responsible developer.
 
 
-Entwickler
+
+Usage
 -------
 
-- Code Standard: PSR2
 
 
 License
