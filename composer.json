@@ -1,7 +1,7 @@
 {
   "name": "quiqqer/buttons",
   "type": "quiqqer-plugin",
-  "description": "CSS button classes for the WYSIWYG editor",
+  "description": "Provides CSS classes to display <a>-tags as buttons.",
   "version": "dev-dev",
   "license": "GPL-3.0+",
   "authors": [
