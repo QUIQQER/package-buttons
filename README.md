@@ -41,6 +41,11 @@ We will try to respond to your request and forward it to the responsible develop
 Usage
 -------
 
+1. Add a link in the content editor
+2. Highlight the link
+3. Open the `Styles`-menu in the editor toolbar above
+4. Select one of the `Button: ...` entries
+5. Admire the beautiful button
 
 
 License
